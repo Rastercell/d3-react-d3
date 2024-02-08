@@ -1,0 +1,58 @@
+{
+  "name": "d3-react-d3",
+  "version": "1.0.0",
+  "description": "All required component with easiest customization to use d3.js graph and charts in your application.",
+  "main": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rastercell/d3-react-d3.git"
+  },
+  "keywords": [
+    "d3",
+    "react",
+    "d3.js",
+    "react-d3",
+    "react-d3.js",
+    "react-d3-graph",
+    "react-d3-chart",
+    "react-d3-graphs",
+    "react-d3-charts",
+    "react-d3-map",
+    "react-d3-maps",
+    "react-d3-map-library",
+    "react-d3-geomap",
+    "d3-map",
+    "d3-maps",
+    "d3-map-library",
+    "d3-geomap",
+    "d3-react",
+    "d3-react-d3",
+    "d3-react-d3.js"
+  ],
+  "dependencies": {
+    "d3": "^7.8.5",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "author": "Rastercell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rastercell/d3-react-d3/issues"
+  },
+  "homepage": "https://github.com/Rastercell/d3-react-d3#readme",
+  "devDependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/react": "^18.2.55"
+  }
+}
